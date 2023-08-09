@@ -23,3 +23,16 @@ header{
   font-size: 16px;
   margin: auto 30px;
 }
+
+footer{
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  background-color: #EC715F;
+}
+
+.footer-text{
+  color: #FAFAFA;
+  font-size: 16px;
+}
