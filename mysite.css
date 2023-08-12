@@ -9,11 +9,13 @@ header{
   background-color: #EC715F;
   height: 70px;
   width: 100%;
+  line-height: 70px;
+  display: flex;
+  justify-content: center;
 }
 
 .nav-list{
-  width: 1024px;
-  line-height: 70px;
+
 }
 
 .nav-list-item{
@@ -21,7 +23,7 @@ header{
   display: inline-block;
   color: #FAFAFA;
   font-size: 16px;
-  margin: auto 30px;
+  margin: 0 30px;
 }
 
 footer{
