@@ -36,12 +36,22 @@ header{
   color: #FAFAFA;
   font-size: 64px;
   font-weight: bold;
+  padding-top: 10px;
 }
 
 .main-visual-text2{
   color: #FAFAFA;
   font-size: 20px;
   padding-top: 10px;
+}
+
+.Portfolio{
+  background-color: #ECEFF1;
+  
+}
+
+.Portfolio-heading{
+  
 }
 
 footer{
