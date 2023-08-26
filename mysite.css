@@ -47,11 +47,33 @@ header{
 
 .Portfolio{
   background-color: #ECEFF1;
-  
+  text-align: center;
+  padding: 90px 0;
 }
 
 .Portfolio-heading{
-  
+  font-size: 32px;
+  font-weight: bold;
+  color: #000000;
+  position: relative;
+}
+
+.Portfolio-heading::before{
+  display: inline-block;
+  position: absolute;
+  left: 50%;
+  bottom: -8px;
+  content: '';
+  width: 70px;
+  border-bottom: 3px solid #EC715F;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+
+.Portfolio-text{
+  font-size: 16px;
+  color: #000000;
+  padding: 38px 0;
 }
 
 footer{
