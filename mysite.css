@@ -133,7 +133,6 @@ header{
 }
 
 .Feature{
-  text-align: center;
   padding: 90px 0;
 }
 
@@ -141,6 +140,7 @@ header{
   font-size: 32px;
   font-weight: bold;
   color: #000000;
+  text-align: center;
   position: relative;
 }
 
@@ -161,6 +161,38 @@ header{
   color: #000000;
   padding-top: 41px;
   padding-bottom: 30px;
+  text-align: center;
+}
+
+.Strength-box1{
+  width: 320px;
+
+}
+
+.Strength-box2{
+  width: 320px;
+}
+
+.Strength-box3{
+  width: 320px;
+}
+
+.socil{
+  font-size: 60px;
+  text-align: center;
+}
+
+.Strength-title{
+  font-size: 20px;
+  color: #000000;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.Strenght-text{
+  font-size: 16px;
+  color: #000000;
 }
 
 footer{
