@@ -164,17 +164,17 @@ header{
   text-align: center;
 }
 
-.Strength-box1{
-  width: 320px;
-
+.Strenght{
+  display: flex;
+  justify-content: center;
 }
 
-.Strength-box2{
+.Strength-box{
   width: 320px;
 }
 
-.Strength-box3{
-  width: 320px;
+.Strenght-box:nth-child(2){
+  padding: 0 10px;
 }
 
 .socil{
@@ -185,9 +185,9 @@ header{
 .Strength-title{
   font-size: 20px;
   color: #000000;
+  padding: 10px 0;
   font-weight: bold;
   text-align: center;
-  padding: 10px 0;
 }
 
 .Strenght-text{
