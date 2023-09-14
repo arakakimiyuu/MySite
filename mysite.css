@@ -220,6 +220,12 @@ header{
   transform: translateX(-50%);
 }
 
+.Profile-icon{
+  display: flex;
+  justify-content: center;
+  max-width: 1024px;
+}
+
 .Profile-text{
   font-size: 16px;
   color: #000000;
@@ -228,13 +234,25 @@ header{
   text-align: center;
 }
 
-.Profile-icon{
-  background-image: url(img/my-icon.jpg);
+.Profile-img{
+  max-width: 520px;
 }
 
 .Profile-icon-title{
   font-size: 20px;
-  font-size: bold;
+  font-weight: bold;
+}
+
+.Profile-icon-text{
+  font-size: 16px;
+  color: #000000;
+  padding-top: 5px;
+}
+
+.Profile-icon-title2{
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 20px;
 }
 
 footer{
