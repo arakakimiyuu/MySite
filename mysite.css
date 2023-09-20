@@ -198,7 +198,6 @@ header{
 .Profile{
   background-color: #ECEFF1;
   padding: 90px 0;
-
 }
 
 .Profile-heading{
@@ -222,14 +221,19 @@ header{
 }
 
 .Profile-icon{
-  max-width: 512px;
-  margin: 0 auto;
+  display: flex;
+  justify-content: center;
 }
 
-img{
+.Profile-img{
   height: 250px;
   width: 250px;
   border-radius:50%;
+}
+
+.icon{
+  display: block;
+  max-width: 512px;
 }
 
 .Profile-text{
