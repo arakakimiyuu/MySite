@@ -144,7 +144,6 @@ header{
 .Profile{
   background-color: #ECEFF1;
   padding: 90px 0;
-
 }
 
 .Profile-heading{
@@ -212,6 +211,11 @@ header{
   padding: 90px 0;
 }
 
+.Contact-information{
+  display: flex;
+  justify-content: center;
+}
+
 .mail{
   font-weight: bold;
   font-size: 20px;
@@ -226,6 +230,34 @@ header{
   font-weight: bold;
   font-size: 20px;
   padding-top: 20px;
+}
+
+.Contact-icon{
+
+}
+
+.Contact-icon-title{
+  font-size: 20px;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+
+.Contact-socil{
+  display: flex;
+  justify-content: center;
+}
+
+.Contact-socil1{
+  font-size: 50px;
+}
+
+.Contact-socil2{
+  font-size: 50px;
+  padding: 0 20px;
+}
+
+.Contact-socil3{
+  font-size: 50px;
 }
 
 footer{
