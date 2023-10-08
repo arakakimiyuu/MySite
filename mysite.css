@@ -248,18 +248,18 @@ header{
 
 .Contact-socil1{
   font-size: 50px;
-  
+  display: inline-block;
 }
 
 .Contact-socil2{
   font-size: 50px;
   padding: 0 20px;
-  
+  display: inline-block;
 }
 
 .Contact-socil3{
   font-size: 50px;
-  
+  display: inline-block;
 }
 
 footer{
