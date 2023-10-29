@@ -286,6 +286,10 @@ footer{
     height: 50px;
   }
 
+  .logo{
+    height: 50px;
+  }
+
   .drawer_hidden {
     display: none;
   }
@@ -362,5 +366,17 @@ footer{
   /* アイコンがクリックされたらメニューを表示 */
   #drawer_input:checked ~ .nav_content {
     left: 0;/* メニューを画面に入れる */
+  }
+
+  .main-visual{
+    width: 90%;
+  }
+
+  .main-visual-text{
+    font-size: 40px;
+  }
+
+  .main-visual-text2{
+    font-size: 18px;
   }
 }
