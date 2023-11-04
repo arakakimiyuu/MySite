@@ -381,15 +381,35 @@ footer{
     font-size: 18px;
   }
 
+  .Portfolio{
+    width: 90%;
+  }
+
+  .Portfolio-image{
+    display: block;
+  }
+
   .Portfolio-box:nth-child(1){
     display: none;
+  }
+
+  .Portfolio-box:nth-child(2){
+    margin: 0 auto;
   }
 
   .Portfolio-box:nth-child(3){
     display: none;
   }
 
+  .Portfolio-box:nth-child(4){
+    margin: 10px auto;
+  }
+
   .Portfolio-box:nth-child(5){
     display: none;
+  }
+
+  .Portfolio-box:nth-child(6){
+    margin: 0 auto;
   }
 }
