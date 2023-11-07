@@ -412,4 +412,8 @@ footer{
   .Portfolio-box:nth-child(6){
     margin: 0 auto;
   }
+
+  .Feature{
+    width: 90%;
+  }
 }
