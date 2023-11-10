@@ -416,4 +416,8 @@ footer{
   .Feature{
     width: 90%;
   }
+
+  .Strenght{
+    display: block;
+  }
 }
