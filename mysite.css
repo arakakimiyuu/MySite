@@ -424,4 +424,8 @@ footer{
   .Strenght-box:nth-child(2){
     padding: 10px 0;
   }
+
+  .Pofile{
+    width: 90%;
+  }
 }
