@@ -428,4 +428,8 @@ footer{
   .Pofile{
     width: 90%;
   }
+
+  .Profile-icon{
+    display: block;
+  }
 }
