@@ -431,5 +431,6 @@ footer{
 
   .Profile-icon{
     display: block;
+    text-align: center;
   }
 }
