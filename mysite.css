@@ -433,4 +433,8 @@ footer{
     display: block;
     text-align: center;
   }
+
+  .Profile-icon-title{
+    padding: 20px 0 5px 0;
+  }
 }
