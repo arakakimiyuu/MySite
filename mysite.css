@@ -425,7 +425,7 @@ footer{
     padding: 10px 0;
   }
 
-  .Pofile{
+  .Profile{
     width: 90%;
   }
 
@@ -436,5 +436,9 @@ footer{
 
   .Profile-icon-title{
     padding: 20px 0 5px 0;
+  }
+
+  .Contact{
+    width: 90%;
   }
 }
