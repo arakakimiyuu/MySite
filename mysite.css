@@ -441,4 +441,9 @@ footer{
   .Contact{
     width: 90%;
   }
+
+  .Contact-information{
+    display: block;
+    text-align: center;
+  }
 }
